@@ -1,2 +1,4 @@
 # CalculatorApp
-This is an Android calculator app
+This is a basic Android calculator app
+
+
